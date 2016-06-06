@@ -5,10 +5,12 @@ margin: 0;
 padding: 0;
 }
 
-body{
-     background-color: lightgray;
-     margin: 5px;
-     }
+      body{
+      background-image: url(../kogeiimage.jpg), url(../shironeko.jpg);
+      background-repeat: no-repeat, no-repeat;
+      background-color: lightgrey;
+      margin: 5px;
+      }
      
     #text-shadow{
     padding: 0 40px;
