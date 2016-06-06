@@ -6,7 +6,7 @@ padding: 0;
 }
 
       body{
-      background-image: url(../kogeiimage.jpg), url(../shironeko.jpg);
+      background-image: url(../shironeko.jpg), url(../kogeiimage.jpg);
       background-repeat: no-repeat, no-repeat;
       background-color: lightgrey;
       margin: 5px;
